@@ -1,0 +1,10 @@
+C:\Users\Vesela Apostolova\Desktop\MemoryGame-2101681070\bin\Debug\MemoryGame-2101681070.exe.config
+C:\Users\Vesela Apostolova\Desktop\MemoryGame-2101681070\bin\Debug\MemoryGame-2101681070.exe
+C:\Users\Vesela Apostolova\Desktop\MemoryGame-2101681070\bin\Debug\MemoryGame-2101681070.pdb
+C:\Users\Vesela Apostolova\Desktop\MemoryGame-2101681070\obj\Debug\MemoryGame-2101681070.csproj.AssemblyReference.cache
+C:\Users\Vesela Apostolova\Desktop\MemoryGame-2101681070\obj\Debug\MemoryGame_2101681070.Form1.resources
+C:\Users\Vesela Apostolova\Desktop\MemoryGame-2101681070\obj\Debug\MemoryGame_2101681070.Properties.Resources.resources
+C:\Users\Vesela Apostolova\Desktop\MemoryGame-2101681070\obj\Debug\MemoryGame-2101681070.csproj.GenerateResource.cache
+C:\Users\Vesela Apostolova\Desktop\MemoryGame-2101681070\obj\Debug\MemoryGame-2101681070.csproj.CoreCompileInputs.cache
+C:\Users\Vesela Apostolova\Desktop\MemoryGame-2101681070\obj\Debug\MemoryGame-2101681070.exe
+C:\Users\Vesela Apostolova\Desktop\MemoryGame-2101681070\obj\Debug\MemoryGame-2101681070.pdb
